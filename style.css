@@ -9,15 +9,36 @@ body{
     font-size: 60px;
     background-color: green;
 }
+li{
+    list-style: none;
+    font-size: 25px;
+    }
 .choi {
     background-color: lightgreen;
 }
-.choi ul{
-    list-style: none;
-    font-size: 20px;
-    }
+
 .choi img{
     height: 200px;
     width: 300px;
 
+}
+.FRecipe h1{
+    font-size: 40px;
+    background-color: violet;
+}
+.FRecipe p{
+    font-size: 25px;
+}
+.FRecipe h3, h4{
+    font-size: 35px;
+    background-color: violet;
+}
+.FRecipe h4{
+    background-color: greenyellow;
+}
+.FRecipe ul{
+    background-color: aqua;
+}
+.FRecipe ol{
+    background-color: beige;
 }

@@ -1,18 +1,22 @@
 *{
     text-align: center;
+   
+}
+body{
+    background-color: lawngreen;
 }
 .indexH1{
     font-size: 60px;
     background-color: green;
 }
-.choice{
-    background-color: lightblue;
+.choi {
+    background-color: lightgreen;
 }
-.choice ul{
+.choi ul{
     list-style: none;
     font-size: 20px;
     }
-.choice img{
+.choi img{
     height: 200px;
     width: 300px;
 

@@ -1,6 +1,19 @@
 *{
     text-align: center;
 }
+.indexH1{
+    font-size: 60px;
+    background-color: green;
+}
 .choice{
+    background-color: lightblue;
+}
+.choice ul{
     list-style: none;
+    font-size: 20px;
+    }
+.choice img{
+    height: 200px;
+    width: 300px;
+
 }
